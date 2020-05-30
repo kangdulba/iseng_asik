@@ -23,7 +23,7 @@ $admin = 'na';
 	var api           = "md.php";
 	document.oncontextmenu =new Function("return false;")
 </script>
-<script type="text/javascript" src="https://assets.mirrordrive.club/app_debug.js?v=2.5"></script>
+<script type="text/javascript" src="https://assets.mirrordrive.club/app.js?v=2.5"></script>
 </head>
 <body onselectstart="return false">
 <div id="bar" data-id="1">1</div>
